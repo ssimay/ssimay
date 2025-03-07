@@ -1,1 +1,1 @@
-I'm a freshman CS student at Bilkent University.
+I'm a sophomore CS student at Bilkent University.
